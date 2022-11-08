@@ -20,9 +20,9 @@
 
 I am a Cyber Security Noob <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
-- :telescope: Currently, I’m a third-year student at University of Information Technology (UIT) - HCMVNU
+- :telescope: Currently, I’m a forth-year student at University of Information Technology (UIT) - HCMVNU
 
-- :seedling: .
+- :seedling: Web Pentester / Red Team Intern at ***
 
 - :zap: .
 
