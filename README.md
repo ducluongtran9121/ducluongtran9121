@@ -22,9 +22,9 @@ I am a Cyber Security Noob <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :telescope: Currently, I’m a forth-year student at University of Information Technology (UIT) - HCMVNU
 
-- :seedling: Web Pentester / Red Team Intern at ***
+- :seedling: Pentester / Red Team Full-time at ***
 
-- :zap: .
+- :zap: Double Valedictorian
 
 
 ---
